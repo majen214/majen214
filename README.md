@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @majen214
-- 👀 I’m interested in exploring the vast world of software engineering and starting out as a junior developer
+- 👀 I’m interested in exploring the vast world of software engineering. 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on beginer projects.
 - 📫 How to reach me? Shoot me a message on GitHub!
